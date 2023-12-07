@@ -1,0 +1,1 @@
+from .capture import Screenshot, Photo
