@@ -1,6 +1,7 @@
 # David Attenborough narrates your Rocket League gameplay, or your life. 
 
-Credits: Harlie Holtz
+## Credit: 
+Harlie Holtz
 Source: https://github.com/cbh123/narrator
 Twitter: https://twitter.com/charliebholtz/status/1724815159590293764
 
