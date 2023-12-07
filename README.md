@@ -5,9 +5,6 @@ Charlie Holtz\
 Source: https://github.com/cbh123/narrator \
 Twitter: https://twitter.com/charliebholtz/status/1724815159590293764
 
-## Want to make your own AI app?
-Check out [Replicate](https://replicate.com). We make it easy to run machine learning models with an API.
-
 ## Setup
 
 Clone this repo, and setup and activate a virtualenv:
