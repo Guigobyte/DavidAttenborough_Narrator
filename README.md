@@ -37,8 +37,8 @@ venv/bin/activate
 Install the dependencies:
 `pip install -r requirements.txt` 
 
-### Section
-Open up ***narrator.py*** and replace **`{Insert Voice ID}`** (Line 65) with your newly created Voice ID.
+### ***narrator.py***
+Replace **`{Insert Voice ID}`** (Line 65) with your newly created Voice ID.
 
 Within ***narrator.py*** Line 21, you may select one of two options: \
 `mode = "webcam"` or `mode = "RocketLeague"`
