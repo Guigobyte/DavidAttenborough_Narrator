@@ -33,13 +33,13 @@ Navigate to [ElevenLabs VoiceLab](https://elevenlabs.io/voice-lab) and select **
 Add a Name and Description and click **Add Voice**. \
 You should now have a new box with the created voice on your VoiceLab page. Hover over **ID** in the top right of the new voice box to see the Voice ID. You can click on **ID** to copy the voice ID to your clipboard.
 
-Open up ***narrator.py*** and replace 'voice="**{Insert Voice ID}**"' (Line 65) with your newly created Voice ID.
+Open up ***narrator.py*** and replace `voice="**{Insert Voice ID}**"` (Line 65) with your newly created Voice ID.
 
 Within ***narrator.py*** you may select one of two options: \
-'mode = "webcam"' or 'mode = "RocketLeague"'
+`mode = "webcam"` or `mode = "RocketLeague"`
 
-'"webcam"' mode will use your webcam to narrate what you look like / what you are doing.\
-"'RocketLeague"' mode will narrate your Rocket League window **only if you have Rocket League as the active window**.
+`"webcam"` mode will use your webcam to narrate what you look like / what you are doing.\
+`"RocketLeague"` mode will narrate your Rocket League window **only if you have Rocket League as the active window**.
 
 
 ## Run it!
