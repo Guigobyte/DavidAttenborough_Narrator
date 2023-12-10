@@ -18,7 +18,7 @@ OPENAI_API_KEY={OpenAI API Key Here}
 ELEVENLABS_API_KEY={ElevenLabs API Key Here}
 ```
 
-### --- Voice ---
+### -- Voice --
 
 - Navigate to [ElevenLabs VoiceLab](https://elevenlabs.io/voice-lab) and select **Add Generative or Cloned Voice --> Instant Voice Cloning**
 - Upload ***David_Attenborough.mp3***.
