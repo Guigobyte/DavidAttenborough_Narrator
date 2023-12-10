@@ -62,7 +62,7 @@ Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html).
 
 ## Run it!
 
-Open a new[^1] terminal and navigate to the folder with ***narrator.py*** and execute the following:
+Open a **new terminal**[^1] and navigate to the folder with ***narrator.py*** and execute the following:
 ```
 py narrator.py
 ```
