@@ -47,7 +47,8 @@ Install the dependencies:
 `"RocketLeague"` mode will narrate your Rocket League window **only if you have Rocket League as the active window**.
 
 
-Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html). For Windows users, download ffmpeg-git-full.7z from https://www.gyan.dev/ffmpeg/builds/.
+Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html). For Windows users, download ffmpeg-git-full.7z from https://www.gyan.dev/ffmpeg/builds/. \
+Extract the .zip (.7z) file to some location on your PC. Next, you will need to add *ffmpeg\bin* to your [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/). 
 
 
 
