@@ -42,7 +42,7 @@ Within ***narrator.py*** Line 21, you may select one of two options: \
 `"RocketLeague"` mode will narrate your Rocket League window **only if you have Rocket League as the active window**.
 
 
-Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html). For Windows users, download ffmpeg-git-full.7z from [https://www.gyan.dev/ffmpeg/builds/].
+Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html). For Windows users, download ffmpeg-git-full.7z from https://www.gyan.dev/ffmpeg/builds/.
 
 
 
