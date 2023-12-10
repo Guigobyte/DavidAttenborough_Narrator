@@ -43,7 +43,7 @@ venv/bin/activate
 Install the dependencies:
 `pip install -r requirements.txt` 
 
-### Open ***narrator.py***
+**Open *narrator.py***
 *Line 65*: Replace **`{Insert Voice ID}`** (Line 65) with your newly created Voice ID.
 
 *Line 21*: Select one of two options: \
