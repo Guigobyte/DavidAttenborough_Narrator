@@ -52,7 +52,7 @@ Install the dependencies:
 
 
 Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html).
-- For Windows users, download ffmpeg-git-full.7z from https://www.gyan.dev/ffmpeg/builds/.
+- For Windows users, download **ffmpeg-git-full.7z** from https://www.gyan.dev/ffmpeg/builds/.
 - Extract the .zip (.7z) file to some location on your PC {yourpath}.
 - Add *{yourpath}\ffmpeg\bin* to your [System PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/). 
 
