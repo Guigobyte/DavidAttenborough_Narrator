@@ -25,9 +25,9 @@ You should now have a new box with the created voice on your VoiceLab page. Hove
 
 ## Code Setup
 
-Clone this repo, and setup and activate a virtualenv through a terminal:
+Clone this repo, and setup and activate a virtualenv through a terminal with the following commands:
 
-```bash
+```
 pip install virtualenv
 virtualenv venv
 venv/bin/activate
