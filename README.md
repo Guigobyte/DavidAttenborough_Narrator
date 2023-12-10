@@ -18,9 +18,15 @@ OPENAI_API_KEY={OpenAI API Key Here}
 ELEVENLABS_API_KEY={ElevenLabs API Key Here}
 ```
 
-Navigate to [ElevenLabs VoiceLab](https://elevenlabs.io/voice-lab) and select **Add Generative or Cloned Voice-->Instant Voice Cloning** and upload ***David_Attenborough.mp3***. \
-Add a Name and Description and click **Add Voice**. \
-You should now have a new box with the created voice on your VoiceLab page. Hover over **ID** in the top right of the new voice box to see the Voice ID. You can click on **ID** to copy the voice ID to your clipboard.
+### Voice Setup
+
+- Navigate to [ElevenLabs VoiceLab](https://elevenlabs.io/voice-lab) and select **Add Generative or Cloned Voice --> Instant Voice Cloning**
+- Upload ***David_Attenborough.mp3***.
+- Add a Name and Description and click **Add Voice**.
+
+You should now have a new box with the created voice on your VoiceLab page. 
+- Hover over **ID** in the top right of the new voice box to see the Voice ID. You can click on **ID** to copy the voice ID to your clipboard (save this ID for the next section).
+
 
 
 ## Code Setup
