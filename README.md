@@ -35,7 +35,7 @@ You should now have a new box with the created voice on your VoiceLab page. Hove
 
 Open up ***narrator.py*** and replace `voice="**{Insert Voice ID}**"` (Line 65) with your newly created Voice ID.
 
-Within ***narrator.py*** you may select one of two options: \
+Within ***narrator.py*** Line 21, you may select one of two options: \
 `mode = "webcam"` or `mode = "RocketLeague"`
 
 `"webcam"` mode will use your webcam to narrate what you look like / what you are doing.\
