@@ -10,7 +10,7 @@ Twitter: https://twitter.com/charliebholtz/status/1724815159590293764
 For this project to work, you need some $$$ in your [OpenAI account](https://platform.openai.com/account/billing/overview) (minimum deposit of $5) so that you can use API calls. This also requires an ElevenLabs [Starter Subscription](https://elevenlabs.io/subscription) ($5/month, but it's $1 for the first month).
 
 
-Clone this repo, and setup and activate a virtualenv:
+Clone this repo, and setup and activate a virtualenv through a terminal:
 
 ```bash
 pip install virtualenv
@@ -18,8 +18,11 @@ virtualenv venv
 venv/bin/activate
 ```
 
-Then, install the dependencies:
+
+Install the dependencies:
 `pip install -r requirements.txt`
+
+
 
 Create an account for [OpenAI](https://beta.openai.com/) and [ElevenLabs](https://elevenlabs.io).
 
