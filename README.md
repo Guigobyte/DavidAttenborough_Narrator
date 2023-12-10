@@ -20,8 +20,9 @@ venv/bin/activate
 
 
 Install the dependencies:
-`pip install -r requirements.txt`
-\\
+`pip install -r requirements.txt` 
+\
+\
 
 
 Create an account for [OpenAI](https://beta.openai.com/) and [ElevenLabs](https://elevenlabs.io).
