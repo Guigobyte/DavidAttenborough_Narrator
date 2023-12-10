@@ -47,8 +47,8 @@ Install the dependencies:
 - *Line 65*: Replace **`{Insert Voice ID}`** (Line 65) with your newly created Voice ID.
 - *Line 21*: Select one of two options: \
   - `mode = "webcam"` or `mode = "RocketLeague"`
-  - `"webcam"` mode will use your webcam to narrate what you look like / what you are doing.\
-  - `"RocketLeague"` mode will narrate your Rocket League window **only if you have Rocket League as the active window**.
+    - `"webcam"` mode will use your webcam to narrate what you look like / what you are doing.\
+    - `"RocketLeague"` mode will narrate your Rocket League window **only if you have Rocket League as the active window**.
 
 
 Lastly, download [ffmpeg](https://www.ffmpeg.org/download.html).
