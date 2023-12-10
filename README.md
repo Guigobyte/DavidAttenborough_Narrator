@@ -23,8 +23,8 @@ Then, install the dependencies:
 
 Create an account for [OpenAI](https://beta.openai.com/) and [ElevenLabs](https://elevenlabs.io).
 
-```
-Create and paste your OpenAI and ElevenLabs API keys in API_KEYS.txt, 
+Create and paste your [OpenAI API Key](https://platform.openai.com/api-keys) and ElevenLabs API Key in API_KEYS.txt. To find your ElevenLabs API Key, click on your profile icon in the top right of the page, then click on "Profile"
+``` 
 OPENAI_API_KEY={OpenAI API Key Here}
 ELEVENLABS_API_KEY={ElevenLabs API Key Here}
 ```
