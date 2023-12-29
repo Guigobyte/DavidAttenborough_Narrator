@@ -43,7 +43,7 @@ venv/bin/activate
 Install the dependencies:
 `pip install -r requirements.txt` 
 
-Download [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/). This is needed to properly install the 'simpleaudio' dependency.
+Download [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/). This is needed to properly install the `simpleaudio` dependency.
 
 **Open *narrator.py***
 - *Line 65*: Replace **`{Insert Voice ID}`** (Line 65) with your newly created Voice ID.
